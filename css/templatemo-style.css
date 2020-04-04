@@ -28,13 +28,13 @@ http://www.templatemo.com/tm-515-eatery
   h1 {
     color: #252525;
     font-size: 3em;
-    line-height: 50px;
+    line-height: 75px;
   }
 
   h2 {
     color: #353535;
-    font-size: 2em;
-    padding-bottom: 10px;
+    font-size: 3em;
+    padding-bottom: 20px;
   }
 
   h3 {
@@ -77,7 +77,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   ::-webkit-scrollbar{
-    width: 8px;
+    width: 18px;
     height: 8px;
   }
 
